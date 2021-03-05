@@ -20,3 +20,9 @@
             System.out.println("This is do while loop number " + a);
             a++;
         }while(a < 10);
+
+====== FOR-EACH LOOP (ENHANCED FOR LOOP) ===========
+LOOP THROUGH AN ARRAY OR ARRAYLIST USING FOR-EACH LOOP
+        for (String i: students){
+            System.out.println(i);
+        }
